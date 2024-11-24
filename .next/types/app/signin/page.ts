@@ -1,4 +1,4 @@
-// File: d:\Workingfile\GalaxyWebsite\galaxy-kick-lock\src\app\signin\page.tsx
+// File: D:\Workingfile\Galaxy\GalaxyWebsite\src\app\signin\page.tsx
 import * as entry from '../../../../src/app/signin/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
